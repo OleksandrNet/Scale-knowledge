@@ -191,3 +191,159 @@ body {
   text-align: center;
   color: #504f4f;
 }
+/* ================================= */
+
+.instant {
+  display: flex;
+  justify-content: center;
+}
+
+.instant-img {
+  width: 600px;
+  height: 200px;
+  margin: 250px 60px 350px;
+  display: flex;
+}
+
+.container-box {
+  background-color: #faf9f7;
+  padding-left: 60px;
+  padding-top: 165px;
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+}
+
+.instant-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1;
+  color: #0a0a0a;
+  width: 349px;
+  margin-bottom: 90px;
+}
+
+.instant-text {
+  font-size: 17px;
+  line-height: 1.59;
+  width: 322px;
+  margin-bottom: 18px;
+}
+
+.instant-img-blok {
+  position: relative;
+  border-radius: 12px;
+  width: 420px;
+}
+
+/* =========================== */
+
+.pricing {
+  background: #fbf19b;
+  padding-top: 250px;
+  padding-bottom: 235px;
+  margin-bottom: 18px;
+}
+
+.pricing-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 57px;
+  line-height: 1.12281;
+  text-align: center;
+  margin-bottom: 43px;
+}
+
+.pricing-text {
+  font-size: 16px;
+  line-height: 1.5;
+  max-width: 478px;
+  margin: 0 auto;
+}
+/* =============================== */
+
+.pay {
+  background-color: #d4f2f9;
+  padding-top: 159px;
+  padding-bottom: 95px;
+}
+
+.pay-title {
+  font-size: 30px;
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 31px;
+}
+
+.pay-text {
+  font-size: 11px;
+  line-height: 1.41818;
+  text-align: center;
+  color: #504f4f;
+}
+/* =============================== */
+
+.black {
+  position: relative;
+  background: #0a0a0a;
+  padding-top: 191px;
+  padding-bottom: 96px;
+}
+
+.black-container-one {
+}
+.black-title {
+  font-size: 60px;
+  line-height: 1.07;
+  color: #faf9f7;
+  text-align: left;
+  padding-left: 60px;
+  margin-bottom: 169px;
+}
+
+.black-button {
+  top: 15px;
+  right: 15px;
+  position: absolute;
+  border-radius: 50%;
+}
+
+.black-button-img {
+}
+.black-list {
+  display: flex;
+  gap: 12px;
+}
+
+.list-items {
+  border-radius: 12px;
+  width: 308px;
+  height: 480px;
+}
+
+.black-items-1 {
+  background-color: #f4d2dc;
+}
+.black-items-nomber {
+}
+.black-items-title {
+}
+.black-items-2 {
+  background-color: #fbf19b;
+}
+.black-items-3 {
+  background-color: #dbfaa8;
+}
+.black-container-two {
+}
+.black-fon {
+}
+.black-container-form {
+}
+.black-form-title {
+}
+.black-form-text {
+}
+.black-form {
+}
